@@ -43,13 +43,15 @@
 🖥️ Built with React + Next.js + TailwindCSS  
 ⭐ Showcasing my work, resume, and contact details  
 
+### 🎵 [Moon Production](https://github.com/smbgAlokk/Moon-Production)  
+🎧 Web app for music studios and podcast setups  
+⚙️ Built with Next.js + TypeScript + TailwindCSS 
+
 ### 🧑‍💼 [Employee Management System](https://github.com/smbgAlokk/Employee-Management-System)  
 📊 Manage employees, roles, and records  
 ⚡ Built with Node.js + MongoDB  
 
-### 🎵 [Moon Production](https://github.com/smbgAlokk/Moon-Production)  
-🎧 Web app for music studios and podcast setups  
-⚙️ Built with Next.js + TypeScript + TailwindCSS  
+ 
 
 ---
 
