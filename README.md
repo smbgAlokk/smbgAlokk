@@ -37,6 +37,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/smbgAlokk/smbgAlokk/blob/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 🚀 Projects Showcase
 
 ### 🎨 [Personal Portfolio](https://alokkumar-sage.vercel.app/)  
@@ -67,12 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smbgAlokk&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/smbgAlokk/smbgAlokk/blob/output/snake.svg" alt="Snake animation"/>
-</p>
 
 ---
 
