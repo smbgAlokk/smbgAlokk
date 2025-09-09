@@ -9,14 +9,33 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎯 Currently working on **Moon Production (Music Studio WebApp)**  
-- 🌱 Learning **Advanced TypeScript & Cloud Deployment**  
-- 💬 Ask me about **React, Next.js, TailwindCSS, Node.js, and DB Design**  
-- ⚡ Fun fact: *I debug at 2 AM with coffee in hand ☕*  
-
+- 🎯 Career Focus: **Data Analytics & Data Engineering**  
+- 🛠️ Skilled in **Data Cleaning, Visualization, Dashboarding & Reporting**  
+- 🌱 Learning **Big Data Tools, Cloud (AWS/GCP), and Advanced SQL**  
+- 💡 Also experienced in **Web Development (MERN / Next.js)**  
+- ⚡ Fun fact: *I love finding stories hidden in raw data 📊* 
 ---
 
 ## 🛠️ Tech Stack
+
+**Data Analytics & Engineering**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Web Development (Secondary Focus)**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
