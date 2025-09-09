@@ -28,14 +28,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Web Development (Secondary Focus)**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,9 +57,10 @@
 
 ## 🚀 Projects Showcase
 
-### 🎨 [Personal Portfolio](https://alokkumar-sage.vercel.app/)  
-🖥️ Built with React + Next.js + TailwindCSS  
-⭐ Showcasing my work, resume, and contact details  
+### 📊 [Diwali Sales Analysis](https://github.com/smbgAlokk/Diwali-Sales-Analysis)  
+- 🛒 Cleaned & analyzed large datasets using **Python (Pandas, NumPy)**  
+- 📈 Built visualizations with **Matplotlib & Seaborn**  
+- 🎯 Delivered insights into sales trends, top products, and customer behavior   
 
 ### 🎵 [Moon Production](https://github.com/smbgAlokk/Moon-Production)  
 🎧 Web app for music studios and podcast setups  
