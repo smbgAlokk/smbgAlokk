@@ -62,7 +62,7 @@
 - 📈 Built visualizations with **Matplotlib & Seaborn**  
 - 🎯 Delivered insights into sales trends, top products, and customer behavior
 
-## 📊 Featured Project: Advanced Excel Sales Dashboard  
+### 📊 [Advanced Excel Sales Dashboard](https://github.com/smbgAlokk/Interactive-Dashboard?tab=readme-ov-file) 
 
 Built an **interactive Excel dashboard** to analyze **sales executive performance** across multiple cities.  
 Leveraged **Pivot Tables, Slicers, Filters, Macros & VBA** to automate reporting and deliver insights on:  
@@ -70,13 +70,13 @@ Leveraged **Pivot Tables, Slicers, Filters, Macros & VBA** to automate reporting
 - **Target Achievement %**  
 - **Regional Sales Trends**  
 
-🔗 [View Project Repository](https://github.com/your-username/Excel-Sales-Dashboard)  
-
 ### 🎵 [Moon Production](https://github.com/smbgAlokk/Moon-Production)  
+
 🎧 Web app for music studios and podcast setups  
 ⚙️ Built with Next.js + TypeScript + TailwindCSS 
 
 ### 🧑‍💼 [Employee Management System](https://github.com/smbgAlokk/Employee-Management-System)  
+
 📊 Manage employees, roles, and records  
 ⚡ Built with Node.js + MongoDB  
 
