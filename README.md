@@ -1,9 +1,9 @@
 <!-- Hero Section -->
-<h1 align="center">Hey 👋, I'm Alok Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | 🎓 B.Tech (CSE) | 💡 Lifelong Learner</h3>
+<h1 align="center">👋 Hey, I'm Alok Kumar</h1>
+<h3 align="center">🚀 Data Analyst | 📊 Aspiring Data Engineer | 💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C6FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Passionate+about+Building+Scalable+Web+Apps;Loves+React+%7C+Next.js+%7C+TypeScript;Open+for+Collaboration+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C6FF&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+%7C+Data+Engineer;Transforming+Data+into+Insights;Advanced+Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Full+Stack+Developer+%7C+React+%7C+Next.js" />
 </p>
 
 ---
