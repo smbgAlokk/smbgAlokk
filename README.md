@@ -60,7 +60,17 @@
 ### 📊 [Diwali Sales Analysis](https://github.com/smbgAlokk/Diwali-Sales-Analysis)  
 - 🛒 Cleaned & analyzed large datasets using **Python (Pandas, NumPy)**  
 - 📈 Built visualizations with **Matplotlib & Seaborn**  
-- 🎯 Delivered insights into sales trends, top products, and customer behavior   
+- 🎯 Delivered insights into sales trends, top products, and customer behavior
+
+## 📊 Featured Project: Advanced Excel Sales Dashboard  
+
+Built an **interactive Excel dashboard** to analyze **sales executive performance** across multiple cities.  
+Leveraged **Pivot Tables, Slicers, Filters, Macros & VBA** to automate reporting and deliver insights on:  
+- **Total Sales**  
+- **Target Achievement %**  
+- **Regional Sales Trends**  
+
+🔗 [View Project Repository](https://github.com/your-username/Excel-Sales-Dashboard)  
 
 ### 🎵 [Moon Production](https://github.com/smbgAlokk/Moon-Production)  
 🎧 Web app for music studios and podcast setups  
