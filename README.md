@@ -57,6 +57,12 @@
 
 ## 🚀 Projects Showcase
 
+### 📊 [Online Book Store](https://github.com/smbgAlokk/Online-Book-Store)  
+- 📚 Designed a Bookstore Database with 3 relational tables (Books, Customers, Orders)**  
+- 🛒 Wrote basic & advanced SQL queries to analyze sales, customers & inventory**  
+- 📊 Extracted insights on revenue trends, top customers, and high-demand genres**
+- 💡 Demonstrated data-driven decision-making through SQL analytics
+
 ### 📊 [Diwali Sales Analysis](https://github.com/smbgAlokk/Diwali-Sales-Analysis)  
 - 🛒 Cleaned & analyzed large datasets using **Python (Pandas, NumPy)**  
 - 📈 Built visualizations with **Matplotlib & Seaborn**  
@@ -74,13 +80,6 @@ Leveraged **Pivot Tables, Slicers, Filters, Macros & VBA** to automate reporting
 
 🎧 Web app for music studios and podcast setups  
 ⚙️ Built with Next.js + TypeScript + TailwindCSS 
-
-### 🧑‍💼 [Employee Management System](https://github.com/smbgAlokk/Employee-Management-System)  
-
-📊 Manage employees, roles, and records  
-⚡ Built with Node.js + MongoDB  
-
- 
 
 ---
 
