@@ -63,7 +63,7 @@
 ---
 
 ### 🧾 **Employee Management System – Role-Based MERN Application**
-🔗 Repo: (Add Link)  
+🔗 https://github.com/smbgAlokk/Employee-Management-System 
 - Developed **secure CRUD APIs**, user roles, and permission control  
 - Designed MongoDB schemas for employees, roles & performance logs  
 - Built frontend integration using React + Tailwind + React Router  
@@ -71,7 +71,7 @@
 ---
 
 ### 🎮 **Number Guessing Game – Interactive Web App**
-🔗 Repo: (Add Link)  
+🔗 https://github.com/smbgAlokk/Number-Guessing-Game 
 - JavaScript-based game with complete logic, UI & attempt tracking  
 - Showcases DOM manipulation, state handling & responsive design  
 
