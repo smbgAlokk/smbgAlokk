@@ -77,18 +77,6 @@
 
 ---
 
-### 🏪 **Online Book Store (SQL + Backend Concepts)**
-🔗 https://github.com/smbgAlokk/Online-Book-Store  
-- Designed 3-table relational schema (Books, Orders, Customers)  
-- Wrote complex SQL queries for analytics, trends & optimization  
-
----
-
-### 📊 **Diwali Sales Analysis (Python)**
-🔗 https://github.com/smbgAlokk/Diwali-Sales-Analysis  
-*(Optional — keep or remove depending on backend focus)*  
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smbgAlokk&theme=tokyonight&hide_border=true" height="180px"/>
