@@ -42,6 +42,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-02090E?style=for-the-badge&logo=Render)
 ---
 
 ## 🐍 Contribution Snake
