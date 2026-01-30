@@ -76,18 +76,6 @@
 - JavaScript-based game with complete logic, UI & attempt tracking  
 - Showcases DOM manipulation, state handling & responsive design  
 
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smbgAlokk&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=smbgAlokk&theme=algolia&no-frame=true&row=1&column=7" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smbgAlokk&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smbgAlokk&layout=compact&theme=tokyonight" height="170px"/>
-</p>
 
 ---
 
